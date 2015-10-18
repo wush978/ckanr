@@ -5,5 +5,5 @@ man-roxygen
 .travis.yml
 appveyor.yml
 Makefile
-
+.git
 ^CONDUCT\.md$
